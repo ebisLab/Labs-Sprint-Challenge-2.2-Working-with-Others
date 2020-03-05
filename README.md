@@ -1,4 +1,4 @@
-# Labs-Sprint-Challenge-2.2-Accountability and Delivery
+# Labs-Sprint-Challenge-2.3-Accountability and Delivery
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them by providing answers to questions related to accountability and delivery of your Labs product.
 
