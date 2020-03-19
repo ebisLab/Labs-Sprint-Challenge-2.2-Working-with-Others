@@ -38,6 +38,6 @@ Please submit a link to your journal entry for this sprint, in the Sprint Retros
 
 ## Rubric & Samples
 
-[Here is a link to the rubric]() that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
+[Here is a link to the rubric](https://www.notion.so/lambdaschool/2-2-Rubric-Working-with-Others-508531415d61499792d0e9c976196991?p=cfe86bd38b124515867f266b9e59119c) that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
 
 [Here is a link to a sample submission](https://www.notion.so/lambdaschool/2-2-Working-With-Others-Contribution-Entry-1f87b452ab294f6aa65d3b41e4e2f9e1) that you can use for inspiration.
