@@ -30,7 +30,7 @@ Describe you team's dynamics as they relate to the effectiveness in designing, b
 - What sorts of strengths do you bring to the team as a contributor in your role? List out anything that highlights how you've helped push this project along.
 - What are some of your weaknesses as a member of your team? How have you worked to overcome some of your individual weaknesses? Be specific.
 - Describe a teamwork problem that you as a team have had to overcome. How did you contribute to the problem itself? How did you contribute to the solution to the problem? Be specific.
-- Describe how you and your team are learning about user problems and measuring whether or not the delivery of your project's features truly solves the problems or drives the objectives of your product? What do you do as a team with those learnings? How do you specifically contribute to the continuous conversations around "what we're going to build next?"
+- How is your team measuring the success of your product? How do you know you are solving user problems? How are you using these measurements to inform what to build next?
 
 ## Submitting your work
 
