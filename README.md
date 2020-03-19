@@ -34,7 +34,7 @@ Describe you team's dynamics as they relate to the effectiveness in designing, b
 
 ## Submitting your work
 
-Please submit a link to your journal entry for this sprint, in the Sprint Retrospective Form. This is to be done every _Friday before Noon_ -- for Full Time -- and before the end of your 2nd '5th' day -- for Part Time -- to be counted as a submission for that sprint.
+Please submit a link to your journal entry for this sprint, in the Sprint Retrospective Form. This is to be done every _Friday before 11_ -- for Full Time -- and before the end of your 2nd '5th' day -- for Part Time -- to be counted as a submission for that sprint.
 
 ## Rubric & Samples
 
