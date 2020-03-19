@@ -12,7 +12,7 @@ You are not allowed to collaborate during the Journal Entry. However, you are en
 
 We have allocated time on your schedule to ensure that you get this done at the end of each sprint.
 
-- For Full Time Students: Please submit your work on this journal entry before 12pm PST every Friday.
+- For Full Time Students: Please submit your work on this journal entry before 11am PT every Friday.
 - For Part Time Students: Please submit your work on this journal entry before the end of your B-Week Thursday class period.
 
 ### Introduction
