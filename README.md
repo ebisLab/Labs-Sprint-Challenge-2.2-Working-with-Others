@@ -21,8 +21,6 @@ Throughout this sprint you have been down in the trenches building features, del
 
 This is all a part of the bigger picture as you have learned how to effectively not only deliver features as a part of a cross functional team, but you've **learned how to work together to do so.** At this point, it's fair to say that you're more than capable of performing the technical duties that the job market demands and now we want to focus and hear from you about how you've been working as **an effective member of a team.**
 
-**Please respond to the following prompt to detail out the reasons your team pivoted away from the plan upon which you agreed as a team.**
-
 ### Prompt 1
 
 Describe you team's dynamics as they relate to the effectiveness in designing, building, and delivering software to real users.
