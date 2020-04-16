@@ -23,9 +23,9 @@ This is all a part of the bigger picture as you have learned how to effectively 
 
 ### Prompt 1
 
-Describe you team's dynamics as they relate to the effectiveness in designing, building, and delivering software to real users.
+Describe your team's dynamics as they relate to the effectiveness in designing, building, and delivering software to real users.
 
-- What sorts of strengths do you bring to the team as a contributor in your role? List out anything that highlights how you've helped push this project along.
+- What sorts of strengths do _you_ bring to the team as a contributor in your role? List out anything that highlights how you've helped push this project along.
 - What are some of your weaknesses as a member of your team? How have you worked to overcome some of your individual weaknesses? Be specific.
 - Describe a teamwork problem that you as a team have had to overcome. How did you contribute to the problem itself? How did you contribute to the solution to the problem? Be specific.
 - How is your team measuring the success of your product? How do you know you are solving user problems? How are you using these measurements to inform what to build next?
